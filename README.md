@@ -7,7 +7,6 @@
 
 ### Overview
 - [ ] Size of the Overview should be `70px`
-- [ ] Summary of the technology. No generic links to external products.
 - [ ] `documentation` should not be in the hyperlink
 - [ ] Remove `Edit link` form right top corner
 
